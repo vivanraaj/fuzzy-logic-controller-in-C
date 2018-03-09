@@ -1,0 +1,8 @@
+﻿  Source.cpp
+m:\documents\intelligent robots\playaround_141217\win32project1\win32project1\source.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+m:\documents\intelligent robots\playaround_141217\win32project1\win32project1\source.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+m:\documents\intelligent robots\playaround_141217\win32project1\win32project1\source.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+m:\documents\intelligent robots\playaround_141217\win32project1\win32project1\source.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+m:\documents\intelligent robots\playaround_141217\win32project1\win32project1\source.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Win32Project1.vcxproj -> M:\Documents\Intelligent Robots\playaround_141217\Win32Project1\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> M:\Documents\Intelligent Robots\playaround_141217\Win32Project1\Debug\Win32Project1.pdb (Full PDB)
